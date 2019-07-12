@@ -1,0 +1,52 @@
+
+
+img{
+  border-radius: 20px;
+}
+
+button {
+  border-radius: 20px;
+  background: transparent;
+  border: 3px;
+}
+
+button:focus {					/*Removes the blue outline of selected box*/
+	outline: 0;
+}
+
+h1
+{
+	padding-left: 8%;
+}
+
+hr.style2 {
+	border-top: 3px double black;
+}
+
+h2,h3
+{display: inline;}
+
+h4, ul
+{
+	font-family: "calibri";
+}
+
+ul
+{
+	font-size: 20px;
+}
+
+img:hover {opacity: 0.9;}
+
+.carousel .item {
+    border-radius: 20px;
+    background-color: transparent;
+    overflow: hidden;
+}
+.carousel-control {
+    border-radius: 20px;
+}
+
+.modal-content {
+ 	border-radius: 20px;
+}
